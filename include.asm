@@ -1,2 +1,2 @@
-%include "func.asm"
+%include "src\func.asm"
 %include "main.asm"
